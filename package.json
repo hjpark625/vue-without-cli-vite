@@ -11,12 +11,11 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "keywords": [],
   "author": "hjpark625",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/hjpark625/vue-without-cli-vite"
   },
   "dependencies": {
     "vue": "^3.4.33",
