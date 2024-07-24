@@ -1,0 +1,39 @@
+{
+  "name": "vue-without-cli-vite",
+  "version": "1.0.0",
+  "description": "vue template without cli with vite",
+  "type": "module",
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "hjpark625",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "vue": "^3.4.33",
+    "vue-router": "^4.4.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.17.0",
+    "@typescript-eslint/parser": "^7.17.0",
+    "@vitejs/plugin-vue": "^5.1.0",
+    "eslint": "^8",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.2.1",
+    "eslint-plugin-vue": "^9.27.0",
+    "sass": "^1.77.8",
+    "sass-loader": "^15.0.0",
+    "typescript": "^5.5.4",
+    "vite": "^5.3.4",
+    "vue-eslint-parser": "^9.4.3"
+  }
+}
